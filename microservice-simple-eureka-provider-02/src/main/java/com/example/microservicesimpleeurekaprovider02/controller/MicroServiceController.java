@@ -1,7 +1,6 @@
-package com.example.microservicesimpleeurekaprovider.controller;
+package com.example.microservicesimpleeurekaprovider02.controller;
 
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
