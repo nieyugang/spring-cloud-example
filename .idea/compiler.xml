@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="microservice-simple-erueka-server" />
-        <module name="spring-cloud-example" />
-        <module name="microservice-simple-eureka-provider" />
-        <module name="microservice-simple-eureka-provider-02" />
         <module name="mcroservice-simple-feign-consumer" />
+        <module name="microservice-simple-hystrix-consumer" />
+        <module name="microservice-simple-eureka-provider" />
+        <module name="microservice-simple-erueka-server" />
+        <module name="microservice-simple-eureka-provider-02" />
+        <module name="spring-cloud-example" />
       </profile>
     </annotationProcessing>
   </component>
@@ -20,6 +21,7 @@
       <module name="microservice-simple-erueka-server" options="-parameters" />
       <module name="microservice-simple-eureka-provider" options="-parameters" />
       <module name="microservice-simple-eureka-provider-02" options="-parameters" />
+      <module name="microservice-simple-hystrix-consumer" options="-parameters" />
     </option>
   </component>
 </project>

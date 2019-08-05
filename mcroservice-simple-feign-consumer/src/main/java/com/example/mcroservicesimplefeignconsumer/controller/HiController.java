@@ -1,6 +1,6 @@
 package com.example.mcroservicesimplefeignconsumer.controller;
 
-import com.example.mcroservicesimplefeignconsumer.inerface.SchedualServiceHi;
+import com.example.mcroservicesimplefeignconsumer.service.SchedualServiceHi;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

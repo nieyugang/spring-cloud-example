@@ -13,6 +13,7 @@
         <module>microservice-simple-erueka-server</module>
         <module>microservice-simple-eureka-provider</module>
         <module>microservice-simple-eureka-provider-02</module>
+        <module>microservice-simple-hystrix-consumer</module>
 
     </modules>
 

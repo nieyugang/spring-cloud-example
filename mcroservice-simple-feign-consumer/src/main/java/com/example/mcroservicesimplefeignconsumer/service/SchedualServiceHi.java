@@ -1,4 +1,4 @@
-package com.example.mcroservicesimplefeignconsumer.inerface;
+package com.example.mcroservicesimplefeignconsumer.service;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.RequestMapping;
