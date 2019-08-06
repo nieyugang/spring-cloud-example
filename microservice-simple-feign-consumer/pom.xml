@@ -11,7 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>microservice-simple-feign-consumer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mcroservice-simple-feign-consumer</name>
+    <name>microservice-simple-feign-consumer</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
