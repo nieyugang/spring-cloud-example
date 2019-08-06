@@ -1,0 +1,12 @@
+spring:
+  devtools:
+    restart:
+      enabled: true
+  application:
+    name: springcloud-swagger2-example
+
+server:
+  port: 8888
+logging:
+  level:
+    root: info
