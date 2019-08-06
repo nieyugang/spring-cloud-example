@@ -5,13 +5,22 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-simple-erueka-client/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-simple-eureka-provider/pom.xml" />
-        <option value="$PROJECT_DIR$/mcroservice-simple-feign-consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-simple-eureka-provider-02/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-simple-hystrix-consumer/pom.xml" />
       </list>
     </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

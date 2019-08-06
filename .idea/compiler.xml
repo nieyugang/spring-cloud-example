@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mcroservice-simple-feign-consumer" />
+        <module name="microservice-simple-feign-consumer" />
+        <module name="microservice-simple-example-swagger" />
         <module name="microservice-simple-hystrix-consumer" />
         <module name="microservice-simple-eureka-provider" />
         <module name="microservice-simple-erueka-server" />
@@ -17,10 +18,11 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="mcroservice-simple-feign-consumer" options="-parameters" />
       <module name="microservice-simple-erueka-server" options="-parameters" />
       <module name="microservice-simple-eureka-provider" options="-parameters" />
       <module name="microservice-simple-eureka-provider-02" options="-parameters" />
+      <module name="microservice-simple-example-swagger" options="-parameters" />
+      <module name="microservice-simple-feign-consumer" options="-parameters" />
       <module name="microservice-simple-hystrix-consumer" options="-parameters" />
     </option>
   </component>
